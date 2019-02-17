@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/slide_Image"
+        android:layout_width="304dp"
+        android:layout_height="161dp"
+        android:layout_marginTop="100dp"
+        app:srcCompat="@drawable/eat_icon"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:id="@+id/slide_Heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:text="Heading"
+        android:layout_centerHorizontal="true"
+        />
+
+    <TextView
+        android:id="@+id/slide_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:text="Detail"
+        android:layout_centerHorizontal="true"
+        />
+</RelativeLayout>
