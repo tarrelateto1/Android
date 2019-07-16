@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "693282971726",
+    "firebase_url": "https://eatx-d18ac.firebaseio.com",
+    "project_id": "eatx-d18ac",
+    "storage_bucket": "eatx-d18ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693282971726:android:4008a4db5f0a9cd4",
+        "android_client_info": {
+          "package_name": "com.app.appeatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693282971726-flrtbtu8fcqeirs4pkqn3gmh4fveq80e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.appeatit",
+            "certificate_hash": "ff575d42f75f908f2c080fb576ece86cc7bd9695"
+          }
+        },
+        {
+          "client_id": "693282971726-9jjn36eiuumr4bhu0tcvkig6dg3umoup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXu3cUbOo3_TJp7y-_gW3nSRh7_11yRr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693282971726-9jjn36eiuumr4bhu0tcvkig6dg3umoup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
